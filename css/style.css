@@ -125,3 +125,18 @@
     display: flex;
     justify-content: space-between;
 }
+.serch-box{
+    position: relative;
+}
+.serch-bar {
+    position: absolute;
+    top: 29px;
+    left: 344px;
+    color: gray;
+}
+span.microphone {
+    color: white;
+    position: absolute;
+    top: 29px;
+    right: 349px;
+}
